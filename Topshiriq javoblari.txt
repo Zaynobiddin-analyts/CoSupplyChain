@@ -1,0 +1,42 @@
+MAVZUSI: Tushum ortishi va sof foyda marjasining tushib ketishi bo'yicha operatsion-moliyaviy tahlil hamda harakatlar rejasi
+
+EXECUTIVE SUMMARY
+O'tgan chorakda kompaniyaning umumiy tushumi $36.78M (net: $33.05M) darajasiga yetganiga qaramay, sof foyda marjamiz kutilmaganda 10.78% ga tushib ketdi. Operatsion va marketing bo'limlari o'rtasidagi kelishmovchiliklarni bartaraf etish maqsadida 180,519 ta operatsiyadan iborat DataCo Supply Chain bazasi chuqur analitik tahlil qilindi.
+
+Tahlil natijalari shuni ko'rsatdiki, foydaning pasayishiga marketing yoki logistikaning yakka o'zi emas, balki yetkazib berish xizmatlarining izdan chiqishi hamda nazoratsiz chegirmalar tizimi sabab bo'lgan.
+
+ASOSIY KO'RSATKICHLAR VA FOYDA YO'QOTISHLARI (FINANCIAL LEAKAGE)
+Logistika inqirozi va Kechikishlar (Late Delivery Rate: 54.83%):
+
+Jami buyurtmalarning 54.83% qismi mijozlarga kechikib yetib borgan.
+
+First Class (ekspress) tarifida kechikish darajasi daxshatli 95.3% ni tashkil etmoqda (27,814 ta buyurtmadan 26,513 tasi kechikkan). Mijozlar tezkor xizmat uchun qo'shimcha haq to'layotgan bir paytda xizmat ko'rsatilmasligi brand obro'siga va qayta xaridlarga to'g'ri zarba bermoqda.
+
+Second Class tarifida ham kechikish ko'rsatkichi 76.6% ga yetgan.
+
+Zararli Mahsulotlar va Chegirmalar (Loss from Negative Profit: -$3.88M):
+
+Tizimda 33,784 ta buyurtma kompaniyaga sof zarar keltirgan. Bu operatsiyalardan ko'rilgan jami moliyaviy yo'qotish -$3.88M ni tashkil qiladi.
+
+Zararning asosiy manbai — agressiv chegirmalar va logistika xarajatlarining mahsulot marjasidan oshib ketganidir (SOLE E35 Elliptical, Bushnell Rangefinder va boshqa yuqori qiymatli tovarlar har bir sotuvda minusga kirmoqda).
+
+Jami berilgan chegirmalar summasi $3.73M ga yetgan.
+
+Mijozlar Segmenti va Otkazlar (Canceled & Suspected Fraud: 7,754 ta):
+
+Bekor qilingan va firibgarlik gumoni bo'lgan buyurtmalarning 50% dan ortig'i (4.1K ta) Consumer segmentiga to'g'ri kelmoqda (Corporate — 2.3K, Home Office — 1.4K). Mahsulot kechikishi tufayli bekor qilishlar va CAC (xaridor jalb qilish xarajati) yo'qotishlari aynan shu segmentda eng yuqori.
+
+TAKTIK HARAKATLAR REJASI (ACTIONABLE RECOMMENDATIONS)
+Direktorlar kengashiga kompaniyaning moliyaviy yo'qotishlarini ertagayoq to'xtatish uchun 3 ta aniq taklif beraman:
+
+First Class Pudratchi Bilan Shartnomani Muzlatish / Audit Qilish:
+
+95% kechikish ko'rsatayotgan ekspress logistika hamkorimizga jarima sanksiyalarini qo'llash yoki bu servisni vaqtincha to'xtatish. Standard Class tarifiga resurslarni qayta taqsimlash.
+
+Agressiv Chegirmalarga Cheklov Qo'yish (Margin Control):
+
+Zarar keltirayotgan Top-10 mahsulotlar uchun avtomatik chegirma tizimini o'chirish. Har bir mahsulot sotuvida minimal foyda marjasi (price floor) rejimini joriy etish.
+
+Kechikayotgan Mintaqaviy Hub'lar Muddatini Qayta Ko'rish:
+
+Central Asia, Central Africa va South Asia yo'nalishlarida rejalashtirilgan yetkazib berish kunlarini (scheduled days) real holatdan kelib chiqib +1 kunga uzaytirish. Bu orqali sun'iy kechikishlar va penya to'lovlari oldi olinadi.

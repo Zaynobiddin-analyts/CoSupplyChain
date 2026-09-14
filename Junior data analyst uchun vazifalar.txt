@@ -1,0 +1,44 @@
+Brifing: Top-Menejmentning Bosh Og'rig'i
+Zaynobiddin, kompaniyamiz o'tgan chorakda tushumni oshirdi, lekin sof foydamiz (profit margin) kutilmaganda 14% ga tushib ketdi. Aksionerlar savdo ko'payib turib, nega foyda kamayayotganini so'rab bo'g'zimdan bo'g'yapti.
+
+Men operatsion direktor (COO) va marketing rahbari bilan gaplashdim, ikkalasi ham aybni bir-biriga ag'daryapti:
+
+Logistika: "Marketing noto'g'ri regionlarga reklama berib, yetkazib berish xarajatlarini oshirib yuboryapti, ustiga-ustak buyurtmalar o'z vaqtida yetib bormay kechikayotgani uchun penya to'layapmiz," deyapti.
+
+Marketing: "Logistika ishlay olmayapti, xaridorlar mahsulot kechikkani uchun otkaz berishayapti va biz har bir yo'qotilgan xaridor uchun xarajat qilyapmiz (CAC oshib ketgan)," deyapti.
+
+Menga ularning hissiy gaplari kerak emas. Menga sovuqqon raqamlar, aniq faktlar va yechim kerak.
+
+Senga yangi yuklab olgan DataCo Supply Chain bazamizni tashlatdim.
+
+Sening CEO Oldidagi Bosh Vazifang (Business Challenge)
+Ushbu "isqirt" bazani olasan-da, menga va direktorlar kengashiga mo'ljallangan Supply Chain & Financial Leakage Dashboard (PDF Report + Power BI) tayyorlaysan.
+
+Shorcha qilib aytganda, ushbu 4 ta asosiy muammoni hal qilib berishing shart:
+
+1. Pulimiz qayerga oqib ketyapti? (Financial Leakage)
+
+Late Delivery Risk (kechikkan yetkazib berishlar) sababli aniq qancha foyda yo'qotyapmiz?
+
+Qaysi region yoki transport rejimida (Shipping Mode) kechikishlar eng yuqori?
+
+2. Zararli mahsulotlar va xaridorlar segmenti (Profitability & Loss Analysis)
+
+Tushumi yuqori bo'lsa ham, kompaniyani zararga kirgizayotgan (Negative Benefit per Order) top-10 mahsulot va kategoriyalarni top. Ularni sotishni to'xtatamizmi yoki narxni oshiramizmi?
+
+Qaysi mijozlar segmentida otkazlar (canceled/suspected fraud) ko'p?
+
+3. Ombor va logistika samaradorligi (OOS & Delivery Efficiency)
+
+Buyurtma berilgan vaqtdan to yetkazib berilguncha bo'lgan real vaqt (Days for shipping (real)) bilan rejalashtirilgan vaqt (Days for shipment (scheduled)) o'rtasidagi farqni chiqar. Aniq qaysi omborimiz sekin ishlayapti?
+
+4. CEO uchun Taktik Yechim (Actionable Insights)
+
+Shunchaki grafik chizma. Men va direktorlar kengashi uchun 3 ta aniq taklif (Recommendation) ber: kompaniya xarajatlarini kamaytirish uchun ertagayoq qaysi jarayonni to'xtatishimiz yoki o'zgartirishimiz kerak?
+
+Men Kutayotgan Natija (Deliverables):
+Python/SQL: DataClean skripting (qanday tozalaganing va null qiymatlar bilan nima qilganing).
+
+Power BI / PDF: Men xona-ma-xona yugurmasligim uchun bitta ekranda hamma KPI'lar (Revenue, Late Delivery Rate, Lost Profit, Order Fulfillment Days) ko'rinadigan interaktiv vizualizatsiya.
+
+CEO Briefing: 1 sahifalik biznes-xulosa (Executive Summary).
